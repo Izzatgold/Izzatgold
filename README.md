@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me: 
-- 😄 Pronouns: He|him|his
+- 😄 Pronouns: He/him/his
 - ⚡ Fun fact: No
 
 <!---
